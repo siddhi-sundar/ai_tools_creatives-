@@ -151,7 +151,7 @@ Below is a comprehensive chart of almost 100 text, image, audio, video, and desi
 - **Free vs. Paid plans** often differ in privacy, limits, and features.
 - **Enterprise plans** provide enhanced controls, security, and compliance (e.g., GDPR, SOC 2).
 - **Ethical concerns** persist with web scraping, but licensed training is rising due to legal challenges and company initiatives.
-- **Privacy risks** include data misuse in generative AI; opt for tools with zero-retention and no-training clauses. Updated: Refined TL;DR to focus solely on ethics, privacy, data control takeaways.
+- **Privacy risks** include data misuse in generative AI; opt for tools with zero-retention and no-training clauses. 
 ---
 
 *This document tracks major AI tools for creatives, updated with latest data from official sources and trends.*
