@@ -1,4 +1,4 @@
-# AI Tools For Artists: What You Need to Know
+# Creative AI Tools: What Artists Need To Know
 
 *Last Updated: July 28, 2025*
 
