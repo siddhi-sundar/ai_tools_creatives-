@@ -1,4 +1,5 @@
-# Comprehensive AI Tools for Creatives
+# AI Tools For Artists: What You Need to Know
+
 *Last Updated: July 28, 2025*
 
 Hi, I'm Siddhi! My mission is to help artists better navigate the AI era. **Find me on:** [YouTube](https://www.youtube.com/@voiceintheage) | [Instagram](https://www.instagram.com/voiceintheage) | [Newsletter](https://www.voiceintheage.com)
