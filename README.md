@@ -1,13 +1,11 @@
-# ai_tools_creatives-
+# Comprehensive AI Tools for Creatives
+*Last Updated: July 28, 2025*
 
 Hi, I'm Siddhi! My mission is to help artists better navigate the AI era. **Find me on:** [YouTube](https://www.youtube.com/@voiceintheage) | [Instagram](https://www.instagram.com/voiceintheage) | [Newsletter](https://www.voiceintheage.com)
 
 Below is a comprehensive chart of almost 100 text, image, audio, video, and design tools with key details on privacy, data handling, ownership, and ethics. Updated each month to help creatives stay aware, empowered, and in control of their work when working with AI tools. 
 
 **Key Caveats:** AI tool policies and features evolve rapidly due to legal, ethical, and technical changes This chart is updated monthly based on available public information as of the last update date, but real-time shifts may occur, so always verify the latest terms directly on official websites or privacy centers before use. This is NOT intended as legal advice; use for informational purposes only to guide your research. Just trying to make artists' lives a little easier!
-
-# Comprehensive AI Tools for Creatives
-*Last Updated: July 28, 2025*
 
 ---
 
