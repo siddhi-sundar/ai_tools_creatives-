@@ -1,6 +1,6 @@
 # ai_tools_creatives-
 
-Hi, I'm Siddhi! My mission is to help artists better navigate the AI era. **Find me on:** [YouTube]([https://www.youtube.com/@voiceintheage)](https://www.youtube.com/@voiceintheage)) | [Instagram]([@voiceintheage](https://www.instagram.com/voiceintheage)) | [Newsletter](www.voiceintheage.com)
+Hi, I'm Siddhi! My mission is to help artists better navigate the AI era. **Find me on:** **Find me on:** [YouTube](https://www.youtube.com/@voiceintheage) | [Instagram](https://www.instagram.com/voiceintheage) | [Newsletter](https://www.voiceintheage.com)
 
 Below is a comprehensive chart of almost 100 text, image, audio, video, and design tools with key details on privacy, data handling, ownership, and ethics. Updated each month to help creatives stay aware, empowered, and in control of their work when working with AI tools. 
 
