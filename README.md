@@ -2,7 +2,6 @@
 *Last Updated: August 21, 2025*
 
 Hi, I'm Siddhi! My mission is to help artists better navigate the AI era.  
-
 **Find me on:** [YouTube](https://www.youtube.com/@siddhisundar) | [Instagram](https://www.instagram.com/siddhi.sundar) | [Newsletter](https://siddhisnewsletter.substack.com)  
 
 Below is a comprehensive chart of 77 text, image, audio, video, and design tools with key details on privacy, data handling, ownership, and ethics. Updated each month to help creatives stay aware, empowered, and in control of their work when working with AI tools.  
