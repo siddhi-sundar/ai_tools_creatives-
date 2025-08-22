@@ -8,6 +8,11 @@ Below is a comprehensive chart of 77 text, image, audio, video, and design tools
 
 **Key Caveats:** AI tool policies and features evolve rapidly due to legal, ethical, and technical changes. This chart is updated monthly based on available public information as of the last update date, but real-time shifts may occur, so always verify the latest terms directly on official websites or privacy centers before use. This is NOT intended as legal advice; use for informational purposes only to guide your research. Just trying to make artists' lives a little easier!
 
+**Note on Transparency Labels:**
+Labels such as “Limited transparency” or “Data sources not fully disclosed” indicate that public information about training data, upload usage, or sharing policies is incomplete. This is often due to proprietary or legal constraints rather than companies intentionally withholding. Always verify directly with providers.
+
+My perspective: there isn’t a right or wrong answer here. Some artists I know choose to avoid these tools entirely; others don’t mind and see it as contributing to the future of better technology. Zero judgment. The goal is simply to ask good questions and understand what’s right for your own creative practice.
+
 ## August 2025 Update Highlights
 - **New Tools Added**:
   - **Grok (xAI)**: Image generation with inputs used for training (via Flux, no opt-out).
