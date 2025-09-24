@@ -1,4 +1,4 @@
-# Creative AI Tools: What Artists Need To Know
+# Creative AI Tools: What Creators Need To Know
 *Last Updated: September 23, 2025*
 
 Hi, I'm Siddhi! My mission is to help artists better navigate the AI era.  
